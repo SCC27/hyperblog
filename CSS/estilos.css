@@ -22,7 +22,7 @@ body{
 
     width: 20px;
     vertical-align: middle;
-    
+
 }
 
 #cabecera #tagline{
@@ -51,4 +51,11 @@ body{
 
     background: white;
     padding: 1em;
+}
+
+#footer{
+    background: #777;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
